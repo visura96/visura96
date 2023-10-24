@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visura96
 - 👀 I’m interested in muti domain physical modeling
-- 🌱 I’m currently learning dynamic modeling in Modelica
+- 🌱 I’m currently learning dynamic modeling in Modelica and Julia
 - 💞️ I’m looking to collaborate on Molten Salt Reactor Dynamics work
 - 📫 How to reach me visura96@gmail.com
 
